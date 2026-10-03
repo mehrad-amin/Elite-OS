@@ -30,8 +30,8 @@ export default function FeaturesGrid({ currentLang = "ar" }) {
     {
       href: liveSiteUrl,
       external: true,
-      labelAr: "معاينة الحاسبة الحية ↗",
-      labelEn: "Test Live Engine ↗",
+      labelAr: "معاينة الحاسبة الحية ",
+      labelEn: "Test Live Engine ",
     },
     {
       href: "#lead-form",
@@ -42,20 +42,20 @@ export default function FeaturesGrid({ currentLang = "ar" }) {
     {
       href: "#lead-form",
       external: false,
-      labelAr: "طلب نظام الفلترة ↗",
-      labelEn: "Get Lead Filter ↗",
+      labelAr: "طلب نظام الفلترة ",
+      labelEn: "Get Lead Filter ",
     },
     {
       href: "#lead-form",
       external: false,
-      labelAr: "تفعيل الربط المباشر ↗",
-      labelEn: "Activate Pipeline ↗",
+      labelAr: "تفعيل الربط المباشر ",
+      labelEn: "Activate Pipeline ",
     },
     {
       href: liveSiteUrl,
       external: true,
-      labelAr: "تجربة المنظومة ↗",
-      labelEn: "Experience Portal ↗",
+      labelAr: "تجربة المنظومة ",
+      labelEn: "Experience Portal ",
     },
   ];
 
