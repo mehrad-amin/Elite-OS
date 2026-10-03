@@ -1,8 +1,8 @@
 export const dictionary = {
   ar: {
-    brandName: "ELITE",
-    brandSuffix: "OS",
-    tagline: "استوديو الأتمتة الرياضية",
+    brandName: "Coach Rise-",
+    brandSuffix: "CR",
+    tagline: "أنظمة رقمية متكاملة لنمو أعمال مدربي اللياقة البدنية",
     nav: {
       features: "المميزات",
       liveDemo: "النظام الحي",
@@ -15,7 +15,7 @@ export const dictionary = {
       badge: "منظومة أتمتة مبيعات التدريب الشخصي VIP",
       titleLine1: "حوّل حسابك إلى براند فاخر",
       titleLine2: "يفرز العملاء ويغلق الاشتراكات تلقائياً",
-      desc: "توقف عن هدر طاقتك في محادثات دائرية بالخاص وإرسال الـ PDFs. نُصمم لك منصتك الرياضية المتكاملة المخصصة باسمك وشعارك لتستقبل عملاءك الجاهزين للدفع بكامل بياناتهم الحيوية خلال 48 ساعة فقط.",
+      desc: "نصمم أنظمة رقمية احترافية تساعد مدربي اللياقة البدنية على تحويل زوار إنستغرام إلى عملاء محتملين مؤهلين.",
       primaryCta: "اطلب نسختك الخاصة",
       secondaryCta: "معاينة النظام الحي",
       trustFast: "تسليم كامل خلال 48 ساعة فقط",
@@ -136,9 +136,9 @@ export const dictionary = {
   },
 
   en: {
-    brandName: "ELITE",
-    brandSuffix: "OS",
-    tagline: "Fitness Automation Studio",
+    brandName: "Coach Rise-",
+    brandSuffix: "CR",
+    tagline: "Digital Growth Systems for Fitness Coaches",
     nav: {
       features: "Features",
       liveDemo: "Live Demo",
@@ -151,7 +151,7 @@ export const dictionary = {
       badge: "VIP Fitness Sales Automation System",
       titleLine1: "Turn Your Profile Into a Luxury Brand",
       titleLine2: "That Pre-Qualifies Leads & Closes VIPs",
-      desc: "Stop wasting hours answering repetitive DMs and sending pricing PDFs. We engineer your custom luxury coaching portal that delivers pre-qualified, paying clients with their biometrics straight to your WhatsApp in 48 hours.",
+      desc: "We build premium digital systems that help fitness coaches turn Instagram visitors into qualified clients.",
       primaryCta: "Claim Your Custom System",
       secondaryCta: "Live Interactive Demo",
       trustFast: "Delivered in just 48 hours",

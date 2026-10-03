@@ -26,8 +26,8 @@ export default function Header({ currentLang = "ar", onLanguageChange }) {
 
             {/* باکس شیشه‌ای آیکون */}
             <div className="relative w-11 h-11 rounded-xl bg-[#0c1017]/90 border border-white/15 flex items-center justify-center shadow-inner">
-              <span className="text-[#22c55e] font-black text-xl font-mono tracking-tighter">
-                E
+              <span className="text-[#22c55e] font-black text-l font-mono tracking-tighter">
+                CR
               </span>
             </div>
           </div>
