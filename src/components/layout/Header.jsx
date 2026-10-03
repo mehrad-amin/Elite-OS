@@ -33,7 +33,7 @@ export default function Header({ currentLang = "ar", onLanguageChange }) {
           </div>
 
           <div className="flex flex-col">
-            <span className="text-xl font-extrabold tracking-wider font-mono text-white">
+            <span className="text-l font-extrabold tracking-wider font-mono text-white">
               {t.brandName}
               <span className="text-[#22c55e]">{t.brandSuffix}</span>
             </span>

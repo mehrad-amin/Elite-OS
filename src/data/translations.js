@@ -1,6 +1,6 @@
 export const dictionary = {
   ar: {
-    brandName: "Coach Rise-",
+    brandName: "Coach Rise",
     brandSuffix: "CR",
     tagline: "أنظمة رقمية متكاملة لنمو أعمال مدربي اللياقة البدنية",
     nav: {
@@ -136,7 +136,7 @@ export const dictionary = {
   },
 
   en: {
-    brandName: "Coach Rise-",
+    brandName: "Coach Rise",
     brandSuffix: "CR",
     tagline: "Digital Growth Systems for Fitness Coaches",
     nav: {
